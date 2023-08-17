@@ -98,7 +98,7 @@ Herzlich willkommen in der "Maschinelles Lernen Algorithmen Lernreihe" Repositor
 2. Ridge Regression: Beobachtung des Effekts der Regularisierung mit Ridge-Regression
 3. Lasso Regression: Erkundung des Regularisierungseffekts von Lasso-Regression
 4. ElasticNet Regression: Verständnis der Vorteile und Verwendung von ElasticNet Regression
-5. Random Search Regression: Hyperparameter-Abstimmung mit Zufallssuche für Regressionsmodelle
+5. Random Search Regression: Hyperparameter-Abstimmung mit Zufallssuche für Regressionsmodelle 
 
 ### Klassifikationsmodelle
 1. Logistische Regression: Klassifikation unter Verwendung eines logistischen Regressionsmodells
